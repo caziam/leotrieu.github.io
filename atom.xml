@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Code4Startup Blog]]></title>
+  <link href="http://leotrieu.github.io/atom.xml" rel="self"/>
+  <link href="http://leotrieu.github.io/"/>
+  <updated>2014-07-24T03:22:37+10:00</updated>
+  <id>http://leotrieu.github.io/</id>
+  <author>
+    <name><![CDATA[Leo Trieu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How I Learned Ruby on Rails in just 9 weeks and founded a startup while working fulltime]]></title>
+    <link href="http://leotrieu.github.io/blog/2014/07/24/how-i-learned-ruby-on-rails-in-just-9-weeks-and-founded-a-startup-while-working-fulltime/"/>
+    <updated>2014-07-24T03:03:19+10:00</updated>
+    <id>http://leotrieu.github.io/blog/2014/07/24/how-i-learned-ruby-on-rails-in-just-9-weeks-and-founded-a-startup-while-working-fulltime</id>
+    <content type="html"><![CDATA[<p>It was January 9th when I was on the 14-hour flight back to Melbourne, Australia from Hanoi, Vietnam. During the flight, I was thinking about the next day when I would be back to the daily routine: 9-5 job and the City Loop, the rail system around the central business district of Melbourne. At that moment, there was something really strong pushing me to break that boundary, to do something new, something fresh, something I would be much passionate about and something that could give me the freedom, autonomy I’ve always dreamed of. Apart from that, relying on employer for your sole source of income is no longer the safest ticket forward to the future and that’s why we’re seeking additional channels of income to achieve financial independence and living a better life.</p>
+
+<p>Then two weeks later, leaving all scare and struggling moments behind, I decided to start working on the idea that I had been thinking of creating as my first startup and began looking for a language or a framework to develop the web application from scratch myself.</p>
+
+<h2><strong>What did I know before RoR?</strong></h2>
+
+<p>I was a <strong>C#</strong> software developer and had no experience with <strong>PHP, ASP.NET</strong> or other languages to develop web application except for basic <strong>HTML, CSS and a bit of JavaScript</strong>. That was my position when I first started learning RoR. As I was working on fulltime job, there was very tight time frame for me to learn new thing and thus I need a framework that ideally should be easy to learn and I can quickly build my platform with it. RoR matched perfectly!</p>
+
+<h2><strong>And my journey started…</strong></h2>
+
+<!-- more -->
+
+
+<p><strong>I spent 3-4 hours after work for learning curve everyday (normally started from 8.30pm – 12.30am)</strong></p>
+
+<p><img src="http://leotrieu.github.io/images/post_img/trello.png"></p>
+
+<h4>Week1</h4>
+
+<blockquote><p>I downloaded a lot of Ruby, Rails ebooks from <a href="http://it-ebooks.info/">it-ebooks.info</a>. Bookmarked all articles or materials that I thought they were relevant even I never read them all. I hit <a href="http://it-ebooks.info/book/1720/">The Book of Ruby</a> and found it was very useful. In fact, I didn’t get through the book too much detail but I just tried to understand the syntax and how to code with variables, functions, methods, etc. I spent almost the whole week for just Ruby only.</p></blockquote>
+
+<h4>Week 2-3:</h4>
+
+<blockquote><p>Found <a href="http://railsforzombies.org/">Rails for Zombies</a>, a couple of Rails courses on <a href="http://udemy.com/">Udemy</a> and <a href="http://teamtreehouse.com/">Treehouse</a> and worked on those sources. I went through steps to install <strong>Ruby, Rails, RVM, Git and Heroku</strong> which I was quite excited. Although these were good sources but I felt I didn’t get what I really wanted till my friend sent me a link to <a href="http://www.railstutorial.org/book">Michael Hartl’s Rails Tutorials</a>. Following step-by-step guides in his tutorials, I typed every single line of code (no copying and pasting and hoping it will work) and as always, my good mentors still were Google and StackOverFlow.</p></blockquote>
+
+<h4>Week 4-5:</h4>
+
+<blockquote><p>Finishing the Rails Tutorials gained me more confidence since I could create a general CRUD function with <strong>Ajax, Bootstrap</strong> for a web app and push it up on Heroku. There were a lot of new things came up and they were too sexy to me to learn like <strong>Bootstrap framework, Devise, Sass, CoffeeScript</strong> but I didn’t do that. Instead, I stopped doing tutorials as well as digging deeper on those areas and worked toward building a real app, the one that I planned to do so.
+I created a repository on Github, built an empty app with gem Bootstrap installed. From there, I created data models based on the database structure that I had before. Then I installed gem Devise and learnt how to apply it to my models. At the end of week 5, I pretty much got all basic things done. Having a real product to work on means you have something tangible to apply the techniques you’re learning. I found this was the best approach as it’s easy to get lost along the way when you learn something new but having a clear goal of why you’re learning to program, what you’re building will keep you on track.</p></blockquote>
+
+<h4>Week 6-8:</h4>
+
+<blockquote><p>This was hard and frustrated period. I kept working on my product, testing and learning on specific gems that I believed they were relevant to functions I would use. For instances, using <strong>Devise</strong> for authentication, <strong>Pundit</strong> for authorization, <strong>Bootstrap</strong> framework for front-end, <strong>RSpec</strong> for testing, a couple of different gems for subscription with Credit Card or <strong>PayPal</strong>, <strong>Wistia</strong> for dealing with videos, etc. At this stage, putting all pieces together into a real product, I started realising how things worked. The key process during this phrase was trial and error approach. Repeating this day by day and you will learn stuffs quickly.</p></blockquote>
+
+<h4>Week 9:</h4>
+
+<blockquote><p>Okay! My new baby was taken shape. It was a platform allowing people to create their online educational course website with subscription basis. At that point, I looked back all the way I went through and felt like I was on top of the world since I beat myself, my fear, my doubts and all the challenges. Spent the whole Sunday and laid down on the St Kilda beach with my wife and a cup of Flat White, my favourite.</p></blockquote>
+
+<h2><strong>…Gift from GOD</strong></h2>
+
+<p>On 26th April, another baby, Lucas &ndash; my new born baby was arrived. Happiness came and life was getting busier but a lot of fun at the same time. Therefore, I decided to hold the project that I was working on for a while but started another one – <a href="http://code4startup.com/">Code4Startup.com</a>. This is a series of courses teaching you how to learn <strong>HTML, CSS, Rails, AngularJS</strong> to create web and mobile app, especially for startups. You might be completely new but don’t worry about it, following those courses will make you from ZERO to GODZILLA. It doesn’t make you great web developer but a person being able to create your own web and mobile app. I would encourage you all learn to how to code as it’s not that hard and trust me, if I can do it, so can you. Since I kept working my fulltime job and travelling City Loop as usual, I planned to start small with my own MVP and bootstrap myself so Code4Startup was the way I raise fund to support my bigger platform being on hold.</p>
+
+<p>Starting our own business is something that most of us have dreamed of doing. At the same time, however, we’re scared to start because we’re afraid of failure and our fears hold us back from starting a new one. <strong>“SO WHAT???”</strong> – For me, it doesn’t matter. I’m doing this business with all of my fears, hopes and dreams as you are and at the end of the road, when I look back on my life, I would say <strong>“F@#% YEAH, WHAT A JOURNEY”</strong>. That’s it, life is about the journey, not the destination.</p>
+]]></content>
+  </entry>
+  
+</feed>
