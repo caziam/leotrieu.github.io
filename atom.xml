@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Code4Startup Blog]]></title>
-  <link href="http://leotrieu.github.io/atom.xml" rel="self"/>
-  <link href="http://leotrieu.github.io/"/>
-  <updated>2014-07-24T03:34:57+10:00</updated>
-  <id>http://leotrieu.github.io/</id>
+  <link href="http://blog.code4startup.com/atom.xml" rel="self"/>
+  <link href="http://blog.code4startup.com/"/>
+  <updated>2014-07-24T22:50:39+10:00</updated>
+  <id>http://blog.code4startup.com/</id>
   <author>
     <name><![CDATA[Leo Trieu]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[How I Learned Ruby on Rails in just 9 weeks and founded a startup while working fulltime]]></title>
-    <link href="http://leotrieu.github.io/blog/2014/07/24/how-i-learned-ruby-on-rails-in-just-9-weeks-and-founded-a-startup-while-working-fulltime/"/>
+    <link href="http://blog.code4startup.com/blog/2014/07/24/how-i-learned-ruby-on-rails-in-just-9-weeks-and-founded-a-startup-while-working-fulltime/"/>
     <updated>2014-07-24T03:03:19+10:00</updated>
-    <id>http://leotrieu.github.io/blog/2014/07/24/how-i-learned-ruby-on-rails-in-just-9-weeks-and-founded-a-startup-while-working-fulltime</id>
+    <id>http://blog.code4startup.com/blog/2014/07/24/how-i-learned-ruby-on-rails-in-just-9-weeks-and-founded-a-startup-while-working-fulltime</id>
     <content type="html"><![CDATA[<p>It was January 9th when I was on the 14-hour flight back to Melbourne, Australia from Hanoi, Vietnam. During the flight, I was thinking about the next day when I would be back to the daily routine: 9-5 job and the City Loop, the rail system around the central business district of Melbourne. At that moment, there was something really strong pushing me to break that boundary, to do something new, something fresh, something I would be much passionate about and something that could give me the freedom, autonomy I’ve always dreamed of. Apart from that, relying on employer for your sole source of income is no longer the safest ticket forward to the future and that’s why we’re seeking additional channels of income to achieve financial independence and living a better life.</p>
 
 <p>Then two weeks later, leaving all scare and struggling moments behind, I decided to start working on the idea that I had been thinking of creating as my first startup and began looking for a language or a framework to develop the web application from scratch myself.</p>
@@ -33,7 +33,7 @@
 
 <p><strong>I spent 3-4 hours after work for learning curve everyday (normally started from 8.30pm – 12.30am)</strong></p>
 
-<p><img src="http://leotrieu.github.io/images/post_img/trello.png"></p>
+<p><img src="http://blog.code4startup.com/images/post_img/trello.png"></p>
 
 <h4>Week1</h4>
 
