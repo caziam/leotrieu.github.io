@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://leotrieu.github.io
+url: http://blog.code4startup.com
 title: Code4Startup Blog
 subtitle: A blogging framework for hackers.
 author: Leo Trieu
@@ -100,3 +100,4 @@ google_analytics_tracking_id: UA-52578610-1
 # Facebook Like
 facebook_like: true
 facebook_user: code4startup
+facebook_page: code4startup

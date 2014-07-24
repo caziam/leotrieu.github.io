@@ -1,9 +1,15 @@
 ---
 layout: post
 title: "How I Learned Ruby on Rails in just 9 weeks and founded a startup while working fulltime"
+description: This blog is all about the way I went through to learn Ruby on Rails and start my own business while still working fulltime job 
 date: 2014-07-24 03:03:19 +1000
 comments: true
-categories: 
+facebook:
+    image: /images/post_img/trello.png
+twitter_card:
+    creator: code4startup
+    type: summary_large_image
+    image: /images/post_img/trello.png 
 ---
 
 It was January 9th when I was on the 14-hour flight back to Melbourne, Australia from Hanoi, Vietnam. During the flight, I was thinking about the next day when I would be back to the daily routine: 9-5 job and the City Loop, the rail system around the central business district of Melbourne. At that moment, there was something really strong pushing me to break that boundary, to do something new, something fresh, something I would be much passionate about and something that could give me the freedom, autonomy I’ve always dreamed of. Apart from that, relying on employer for your sole source of income is no longer the safest ticket forward to the future and that’s why we’re seeking additional channels of income to achieve financial independence and living a better life.
